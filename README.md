@@ -27,7 +27,7 @@ And then in your application.css
     *= require normalize-rails
     *= require_tree .
     
-Add it before require_tree so that you can override any of it's styles.
+Add it before require_tree so that you can override any of its styles.
 
 ## Contributing
 
